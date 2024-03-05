@@ -1,0 +1,506 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+body{
+	font-family: 'Open Sans', sans-serif;
+}
+
+.logo{
+	width: 180px;
+	height: 22px;
+	background-image: url("../images/logo.png");
+}
+
+.header{
+	margin-left: 220px;
+	margin-top: 30px;
+}
+
+.headerwrap{
+	width: 175px;
+	margin-left: 10px;
+}
+
+.signup{
+	float: left;
+	margin-top: 10px;
+	float: left;
+	width: 85px;
+	height: 30px;
+	background-color: #EFEFEF;
+	border: solid 1px #C3C3C3;
+	border-right: solid 1px #A9A9A9;
+	border-top-left-radius: 5px;
+	border-bottom-left-radius: 5px;
+	font-size: 12px;
+	color: #4F4F4F;
+	text-align: center;
+	line-height: 30px;
+}
+
+.signup p:hover{
+	color: #282828;
+}
+
+.login{
+	margin-top: 10px;
+	float: left;
+	width: 85px;
+	height: 30px;
+	background-color: #EFEFEF;
+	border: solid 1px #C3C3C3;
+	border-left: none;
+	border-top-right-radius: 5px;
+	border-bottom-right-radius: 5px;
+	font-size: 12px;
+	color: #4F4F4F;
+	text-align: center;
+	line-height: 30px;
+}
+
+.login p:hover{
+	color: #282828;
+}
+
+.container{
+	margin-left: 510px;
+	margin-top: 70px;
+	height: 700px;
+}
+
+.download{
+	width: 650px;
+	height: 123px;
+}
+
+.downloadboxt{
+	width: 650px;
+	height: 90px;
+	background-color: #292929;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+}
+
+.image{
+	float: left;
+	background-image: url("../images/raricon.png");
+	width: 43px;
+	height: 58px;
+	position: absolute;
+	margin-left: 15px;
+	margin-top: 11px;
+}
+
+.name{
+	float: left;
+	position: absolute;
+	margin-left: 75px;
+	margin-top: 25px;
+	color: #FFFFFF;
+	font-size: 12px;
+}
+
+.nameicons{
+	position: absolute;
+	margin-top: 8px;
+	width: 71px;
+	height: 16px;
+	background-image: url("../images/nameicons.png");
+}
+
+.downloadbutton{
+	width: 300px;
+	height: 54px;
+	position: absolute;
+	margin-left: 325px;
+	margin-top: 18px;
+	font-family: Arial;
+	color: #FFFFFF;
+	text-align: center;
+	line-height: 50px;
+	font-size: 12px;
+	background-image: url("../images/downloadbutton.png");
+}
+
+.downloadboxb{
+	width: 650px;
+	height: 33px;
+	background-color: #474747;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+	font-size: 13px;
+	color: #FFFFFF;
+}
+
+.greylogo{
+	background-image: url("../images/greylogo.png");
+	width: 123px;
+	height: 12px;
+	position: absolute;
+	margin-top: 8px;
+	margin-left: 10px;
+}
+
+.downloadboxb p{
+	position: absolute;
+	margin-left: 190px;
+	margin-top: 7px;
+}
+
+.learnmore{
+	width: 130px;
+	height: 24px;
+	background-color: #777777;
+	position: absolute;
+	margin-top: 3px;
+	margin-left: 514px;
+	border: solid 1px #383838;
+	border-radius: 5px;
+	text-align: center;
+	line-height: 24px;
+}
+
+.info{
+	width: 650px;
+	margin-top: 10px;
+}
+
+.left{
+	float: left;
+	height: 500px;
+	width: 430px;
+}
+
+.image2{
+	float: left;
+	background-image: url("../images/raricon2.png");
+	width: 43px;
+	height: 58px;
+	position: absolute;
+	margin-left: 15px;
+	margin-top: 11px;
+}
+
+.titletitle{	
+	float: left;
+	position: absolute;
+	margin-top: 20px;
+}
+
+.titletitle p{
+	font-family: sans-serif;
+	margin-left: 77px;
+	color: #787878;
+	font-size: 18px;
+}
+
+.titletitle b{
+	color: #000000;
+}
+
+.fileinfo{
+	position: absolute;
+	margin-left: 14px;
+	margin-top: 90px;
+	color: #4f4f4f;
+	font-size: 13px;
+}
+
+.fileinfo p{
+	padding-bottom: 3px;
+}
+
+.info2{
+	width: 430px;
+	position: absolute;
+	margin-top: 180px;
+	margin-left: 14px;
+	font-size: 13px;
+	color: #4f4f4f;
+}
+
+.info2 h1{
+	font-size: 13px;
+	color: #4f4f4f;
+	padding-bottom: 15px;
+}
+
+.right{
+	float: left;
+	padding-left: 10px;
+}
+
+.openedwith{
+	width: 210px;
+	height: 150px;
+	background-color: #EEEEEE;
+}
+
+.openedwith p{
+	color: #4F4F4F;
+	font-size: 13px;
+	margin-left: 10px;
+}
+
+.openedwith h1{
+	font-size: 13.5px;
+	color: #4f4f4f;
+	padding-bottom: 15px;
+	padding-bottom: 7px;
+	margin-left: 10px;
+	margin-top: 10px;
+	padding-top: 13px;
+}
+
+.wzpc{
+	padding-left: 10px;
+	padding-top: 15px;
+}
+
+.wzpc p{
+	font-size: 11px;
+	padding-left: 25px;
+	color: #6999a5;
+}
+
+.wzpc p:hover{
+	font-size: 11px;
+	padding-left: 25px;
+	color: #d85724;
+}
+
+.wzpc2{
+	float: left;
+	width: 25px;
+	height: 25px;
+	background-image: url("../images/winzipforpc.png");
+}
+
+.wzmac{
+	padding-left: 10px;
+	padding-top: 25px;
+}
+
+.wzmac p{
+	font-size: 11px;
+	padding-left: 25px;
+	color: #6999a5;
+}
+
+.wzmac p:hover{
+	font-size: 11px;
+	padding-left: 25px;
+	color: #d85724;
+}
+
+.wzmac2{
+	float: left;
+	width: 28px;
+	height: 24px;
+	background-image: url("../images/winzipformac.png");
+}
+
+.esttime{
+	width: 210px;
+	height: 80px;
+	background-color: #EEEEEE;
+	margin-top: 10px;
+}
+
+.esttime p{
+	color: #4F4F4F;
+	font-size: 13px;
+	margin-left: 10px;
+}
+
+.esttime h1{
+	font-size: 13.5px;
+	color: #4f4f4f;
+	padding-bottom: 15px;
+	padding-bottom: 7px;
+	margin-left: 10px;
+	margin-top: 10px;
+	padding-top: 13px;
+}
+
+table{
+	margin-top: 15px;
+}
+
+table, th, td{
+	border:1px solid #C0C0C0;
+	border-collapse:collapse;
+	background-color: #EEEEEE
+}
+
+th{
+	background-color: #C0C0C0;
+	color: #4F4F4F;
+	font-size: 13px;
+	padding: 5px;
+}
+
+td{
+	color: #4F4F4F;
+	font-size: 13px;
+	padding: 5px 5px 5px 10px;
+}
+
+.like{
+	margin-top: 170px;
+}
+
+.liketop{
+	width: 208px;
+	height: 36px;
+	background-color: #E6E9F2;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+	border: solid 1px #C5D0E3;
+	font-size: 12px;
+	color: #3c5a98;
+	line-height: 36px;
+}
+
+.liketop p{
+	padding-left: 37px;
+}
+
+.likefacebook{
+	float: left;
+	width: 17px;
+	height: 17px;
+	background-image: url("../images/likefacebook.png");
+	margin-left: 10px;
+	margin-top: 8.5px;
+}
+
+.likebottom{
+	width: 208px;
+	height: 48px;
+	border: solid 1px #C5D0E3;
+	border-top: none;
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+}
+
+.footer{
+	width: 100%;
+	height: 220px;
+	background-color: #F3F3F3;
+	border-top: solid 1px #EBEBEB;
+}
+
+.footerwraptop{
+	margin-left: 200px;
+}
+
+.footertitle{
+	font-size: 13px;
+	color: #ADADAD;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+.footertitle:hover{
+	color: #4F4F4F;
+}
+
+.company{
+	float: left;
+	color: #ADADAD;
+	font-size: 13px;
+}
+
+.tools{
+	float: left;
+	color: #ADADAD;
+	font-size: 13px;
+	padding-left: 150px;
+}
+
+.upgrade{
+	float: left;
+	color: #ADADAD;
+	font-size: 13px;
+	padding-left: 150px;
+}
+
+.support{
+	float: left;
+	color: #ADADAD;
+	font-size: 13px;
+	padding-left: 150px;
+}
+
+.company p{
+	padding-bottom: 5px;
+}
+
+.tools p{
+	padding-bottom: 5px;
+}
+
+.upgrade p{
+	padding-bottom: 5px;
+}
+
+.support p{
+	padding-bottom: 5px;
+}
+
+.company p:hover{
+	color: #4F4F4F;
+}
+
+.tools p:hover{
+	color: #4F4F4F;
+}
+
+.upgrade p:hover{
+	color: #4F4F4F;
+}
+
+.support p:hover{
+	color: #4F4F4F;
+}
+
+.line{
+	position: absolute;
+	width: 100%;
+	height: 2px;
+	border-top: solid 1px #E3E3E3;
+	margin-top: 165px;
+}
+
+.footerwrapbottom{
+	position: absolute;
+	margin-top: 180px;
+}
+
+.footerwrapbottom ul{
+	margin-left: 200px;
+	list-style-type: none;
+	font-size: 12px;
+	color: #ADADAD;
+}
+
+.footerwrapbottom li{
+	float: left;
+	padding-right: 25px;
+}
+
+.footerwrapbottom li p:hover{
+	color: #ADADAD;
+}
+
+.footerwrapbottom li:hover{
+	color: #4F4F4F;
+}
+
+.ccc{
+	background: none;
+	color: #CCCCCC;
+}
